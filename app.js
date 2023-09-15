@@ -6,9 +6,11 @@ function randomRBG() {
 }
 
 //To change each letter independently
+
+// Function to change the color of each letter
 const letters = document.querySelectorAll('.letter');
 const intervalID = setInterval(function() {
     for (let letter of letters) {
         letter.style.color = randomRBG();
     }
-},2000);
+},1000);
