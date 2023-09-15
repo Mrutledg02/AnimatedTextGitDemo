@@ -3,12 +3,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: teal;
+    background-color: rgba(104, 0, 52, 0.918);
 }
 
 h1 {
-    font-size: 13rem;
-    font-family: Montserrat;
+    font-size: 11rem;
+    font-family: Oregano;
 }
 
 .letter {
