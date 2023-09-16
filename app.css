@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgba(104, 0, 52, 0.918);
+    background-color: olive;
 }
 
 h1 {
-    font-size: 11rem;
+    font-size: 20rem;
     font-family: Oregano;
 }
 
